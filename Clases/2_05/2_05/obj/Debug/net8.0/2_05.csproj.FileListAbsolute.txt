@@ -1,0 +1,15 @@
+C:\Users\Juan\source\repos\Clases\2_05\2_05\bin\Debug\net8.0\2_05.exe
+C:\Users\Juan\source\repos\Clases\2_05\2_05\bin\Debug\net8.0\2_05.deps.json
+C:\Users\Juan\source\repos\Clases\2_05\2_05\bin\Debug\net8.0\2_05.runtimeconfig.json
+C:\Users\Juan\source\repos\Clases\2_05\2_05\bin\Debug\net8.0\2_05.dll
+C:\Users\Juan\source\repos\Clases\2_05\2_05\bin\Debug\net8.0\2_05.pdb
+C:\Users\Juan\source\repos\Clases\2_05\2_05\obj\Debug\net8.0\2_05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan\source\repos\Clases\2_05\2_05\obj\Debug\net8.0\2_05.AssemblyInfoInputs.cache
+C:\Users\Juan\source\repos\Clases\2_05\2_05\obj\Debug\net8.0\2_05.AssemblyInfo.cs
+C:\Users\Juan\source\repos\Clases\2_05\2_05\obj\Debug\net8.0\2_05.csproj.CoreCompileInputs.cache
+C:\Users\Juan\source\repos\Clases\2_05\2_05\obj\Debug\net8.0\2_05.sourcelink.json
+C:\Users\Juan\source\repos\Clases\2_05\2_05\obj\Debug\net8.0\2_05.dll
+C:\Users\Juan\source\repos\Clases\2_05\2_05\obj\Debug\net8.0\refint\2_05.dll
+C:\Users\Juan\source\repos\Clases\2_05\2_05\obj\Debug\net8.0\2_05.pdb
+C:\Users\Juan\source\repos\Clases\2_05\2_05\obj\Debug\net8.0\2_05.genruntimeconfig.cache
+C:\Users\Juan\source\repos\Clases\2_05\2_05\obj\Debug\net8.0\ref\2_05.dll
